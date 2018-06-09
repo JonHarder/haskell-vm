@@ -1,4 +1,4 @@
-# VM: A Virtual machine meant to run off a made up cpu architecture written in Haskell
+# VM: A Virtual machine written in Haskell
 
 ## Instalation
 * Ensure stack is [installed](https://docs.haskellstack.org/en/stable/install_and_upgrade/)
