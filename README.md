@@ -27,3 +27,4 @@
 * "assembly" parsing from separate file
 * an actual assembler which emits binary
 * vm which understands that binary
+* hard drive emulation for persistant storage
